@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="663b4df1-bc4b-47f6-a734-e1c05382fe78" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SHDS_simulator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/instances.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SHDS-simulator/SHDS-simulator.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/out.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_0.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_10.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_11.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_12.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_13.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_14.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_15.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_16.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_17.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_18.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_19.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_20.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_21.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_22.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_23.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_24.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_25.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_26.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_27.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_28.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_29.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_6.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_8.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_1_9.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_0.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_10.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_11.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_12.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_13.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_14.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_15.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_16.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_17.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_18.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_19.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_20.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_21.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_22.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_23.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_24.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_25.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_26.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_27.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_28.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_29.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_6.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_8.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_2_9.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_0.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_10.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_11.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_12.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_13.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_14.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_15.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_16.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_17.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_18.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_19.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_20.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_21.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_22.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_23.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_24.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_25.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_26.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_27.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_28.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_29.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_6.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_8.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_3_9.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_0.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_10.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_11.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_12.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_13.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_14.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_15.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_16.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_17.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_18.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_19.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_20.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_21.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_22.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_23.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_24.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_25.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_26.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_27.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_28.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_29.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_6.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_8.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_4_9.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_0.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_10.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_11.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_12.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_13.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_14.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_15.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_16.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_17.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_18.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_19.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_20.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_21.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_22.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_23.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_24.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_25.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_26.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_27.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_28.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_29.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_6.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_8.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_5_9.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_0.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_10.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_11.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_12.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_13.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_14.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_15.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_16.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_17.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_18.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_19.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_20.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_21.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_22.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_23.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_24.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_25.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_26.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_27.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_28.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_29.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_6.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_8.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_6_9.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_0.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_10.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_11.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_12.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_13.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_14.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_15.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_16.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_17.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_18.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_19.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_20.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_21.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_22.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_23.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_24.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_25.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_26.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_27.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_28.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_29.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_6.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_8.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_7_9.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_0.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_10.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_11.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_12.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_13.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_14.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_15.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_16.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_17.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_18.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_19.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_20.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_21.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_22.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_23.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_24.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_25.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_26.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_27.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_28.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_29.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_30.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_6.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_8.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/inputs/ins_8_9.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/resources.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SHDS-simulator.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SHDS_simulator_jar/SHDS-simulator.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SHDS_simulator_jar/jacop-4.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SHDS_simulator_jar/json-20160810.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Devices/Action$Effect.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Devices/Action.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Devices/Actuator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Devices/Device.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Devices/Sensor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Devices/SensorProperty.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Home.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/LocalSolver/ActuatorSchedule.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/LocalSolver/DebugSchedule.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/LocalSolver/RuleSchedulerSolver$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/LocalSolver/RuleSchedulerSolver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/LocalSolver/RulesSchedule.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/LocalSolver/Solver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Rules/PredictiveModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Rules/PredictiveModelFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Rules/RuleBinaryRelation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Rules/RuleTimePredicate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Rules/RuleTimePrefix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Rules/RuleType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Rules/SchedulingRule$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/Home/Rules/SchedulingRule.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/agents/MGM/MGMAgent$EnergyProfileMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/agents/MGM/MGMAgent$GainMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/agents/MGM/MGMAgent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/agents/MGM/MGMAgentActions$NullOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/agents/MGM/MGMAgentActions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/agents/MGM/MGMAgentState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/agents/MGM/MGMAgentView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/AgentStatistics.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/BasicMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/ComAgent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/DCOPagent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/DCOPinfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/Messages$EndSignal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/Messages$RegisterLeader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/Messages$RegisterNeighbor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/Messages$StartSignal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/Messages.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/PseudoTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/Spawner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/StatisticsDeamon$AgentStatisticsInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/StatisticsDeamon$WatchMe.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/StatisticsDeamon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/StopWatch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/communication/TrackableObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/AgentActions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/AgentState$AgentStateComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/AgentState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/AgentView$Evaluator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/AgentView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/BoundDomain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/Constants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/Constraint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/ConstraintFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/DCOPInstance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/DCOPInstanceFactory$Type.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/DCOPInstanceFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/DCOPalgorithmState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/DCOPobject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/Domain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/IntVariable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/Permutations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/TableBinaryConstraint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/TableConstraint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/Tuple.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/Variable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/kernel/VariableFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/problem/Generator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/problem/GeneratorMulti.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/problem/Pair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/problem/Parameters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/problem/RuleGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/problem/Topology.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/edu/nmsu/problem/Utilities.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/RuleFile_0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_BO_0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_BO_1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_BO_2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_BO_3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_BO_4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_BO_5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_BO_6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_BO_7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_BO_8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_BO_9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_DM_0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_DM_1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_DM_2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_DM_3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_DM_4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_DM_5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_DM_6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_DM_7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_DM_8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_DM_9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_SF_0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_SF_1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_SF_2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_SF_3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_SF_4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_SF_5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_SF_6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_SF_7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_SF_8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/10clusters/instance_SF_9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_BO_0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_BO_1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_BO_2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_BO_3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_BO_4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_BO_5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_BO_6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_BO_7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_BO_8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_BO_9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_0_10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_0_100.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_0_20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_DM_9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_27.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_29.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_30.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_31.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_33.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_34.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_35.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_36.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_37.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_38.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_39.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_40.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_41.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_42.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_43.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_44.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_45.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_46.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_47.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_48.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_49.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_PI_9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_SF_0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_SF_1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_SF_2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_SF_3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_SF_4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_SF_5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_SF_6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_SF_7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_SF_8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instance_SF_9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/inputs/1cluster/instances.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/instance.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/instance_1.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SHDS-simulator.iml" afterPath="$PROJECT_DIR$/SHDS-simulator.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/DeviceDictionary.json" afterPath="$PROJECT_DIR$/resources/DeviceDictionary.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/Home/Devices/Device.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/Home/Devices/Device.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/Home/Home.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/Home/Home.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/CPSolver.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/CPSolver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/DebugSchedule.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/DebugSchedule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/RuleSchedulerSolver.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/RuleSchedulerSolver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/RulesSchedule.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/RulesSchedule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/Home/Rules/SchedulingRule.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/Home/Rules/SchedulingRule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/Main.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/agents/MGM/MGMAgent.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/agents/MGM/MGMAgent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/agents/MGM/MGMAgentActions.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/agents/MGM/MGMAgentActions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/communication/AgentStatistics.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/communication/AgentStatistics.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/communication/DCOPagent.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/communication/DCOPagent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/kernel/AgentView.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/kernel/AgentView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/kernel/DCOPInstanceFactory.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/kernel/DCOPInstanceFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/kernel/Tuple.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/kernel/Tuple.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/problem/Parameters.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/problem/Parameters.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/problem/RuleGenerator.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/problem/RuleGenerator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/nmsu/problem/Topology.java" afterPath="$PROJECT_DIR$/src/edu/nmsu/problem/Topology.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todo.md" afterPath="$PROJECT_DIR$/todo.md" />
+    </list>
+    <ignored path="SHDS-simulator.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SHDS-simulator" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/nmsu/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="111" column="59" lean-forward="true" selection-start-line="111" selection-start-column="59" selection-end-line="111" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>h133&quot;:</find>
+      <find>h97&quot;:</find>
+      <find>h14&quot;:</find>
+      <find>h100&quot;:</find>
+      <find>h128&quot;:</find>
+      <find>h58&quot;:</find>
+      <find>h32&quot;:</find>
+      <find>h54&quot;:</find>
+      <find>Error</find>
+      <find>_665</find>
+      <find>Solu</find>
+      <find>h116&quot;:</find>
+      <find>Sol</find>
+      <find>h89&quot;:</find>
+      <find>h13&quot;:</find>
+      <find>h132&quot;:</find>
+      <find>h109&quot;:</find>
+      <find>h23&quot;:</find>
+      <find>Failed</find>
+      <find>GE_WSM2420D3WW</find>
+      <find>h211&quot;:</find>
+      <find>Solution</find>
+      <find>cleanliness</find>
+      <find>parameters</find>
+      <find>debug</find>
+      <find>System</find>
+      <find>System.out.print</find>
+      <find>out</find>
+      <find>out</find>
+      <find>out of</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/outputs/output.json" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/problem/RuleGenerator.java" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/problem/Utilities.java" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/communication/AgentStatistics.java" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/problem/Topology.java" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/RulesSchedule.java" />
+        <option value="$PROJECT_DIR$/resources/inputs/instance_r1_s24_g60.json" />
+        <option value="$PROJECT_DIR$/resources/instance.json" />
+        <option value="$PROJECT_DIR$/resources/inputs/instance_r8_s12_g60.json" />
+        <option value="$PROJECT_DIR$/resources/inputs/instance_r8_s6_g60.json" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/DebugSchedule.java" />
+        <option value="$PROJECT_DIR$/resources/inputs/instance_r1_s12_g60.json" />
+        <option value="$PROJECT_DIR$/resources/inputs/instance_r7_s12_g60.json" />
+        <option value="$PROJECT_DIR$/resources/inputs/instance_r5_s12_g60.json" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/Home/Home.java" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/communication/Spawner.java" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/problem/Parameters.java" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/Home/Rules/SchedulingRule.java" />
+        <option value="$PROJECT_DIR$/resources/outputs/laundry_wash_stats.txt" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/CPSolver.java" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/agents/MGM/MGMAgent.java" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/Home/Devices/Device.java" />
+        <option value="$PROJECT_DIR$/resources/inputs/ins_8_0.json" />
+        <option value="$PROJECT_DIR$/resources/inputs/ins_8_30.json" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/kernel/DCOPInstanceFactory.java" />
+        <option value="$PROJECT_DIR$/resources/DeviceDictionary.json" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/RuleSchedulerSolver.java" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/Main.java" />
+        <option value="$PROJECT_DIR$/src/edu/nmsu/agents/MGM/MGMAgentActions.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SHDS-simulator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SHDS-simulator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SHDS-simulator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SHDS-simulator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SHDS-simulator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SHDS-simulator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StatsVision" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.46375144" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="SearchEverywhereHistoryKey" value="nullstream&#9;PSI&#9;JAVA://edu.nmsu.agents.MGM.MGMAgentActions#nullStream" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wklue_000\Desktop\SHDS-simulator\resources\inputs" />
+      <recent name="C:\Users\wklue_000\Desktop\SHDS-simulator\resources\inputs\OPTMAS-17_new" />
+      <recent name="C:\Users\wklue_000\Desktop\SHDS-simulator\resources\inputs\New_OPTMAS-17" />
+      <recent name="C:\Users\wklue_000\Desktop\SHDS-simulator\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="edu.nmsu.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SHDS-simulator" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
+    </list>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="663b4df1-bc4b-47f6-a734-e1c05382fe78" name="Default" comment="" />
+      <created>1485194811249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1485194811249</updated>
+      <workItem from="1485194812614" duration="156000" />
+      <workItem from="1485195014861" duration="12245000" />
+      <workItem from="1485222003586" duration="2432000" />
+      <workItem from="1485281208628" duration="6024000" />
+      <workItem from="1485313436790" duration="2385000" />
+      <workItem from="1485372975564" duration="9552000" />
+      <workItem from="1485454399649" duration="1575000" />
+      <workItem from="1485543287086" duration="19000" />
+      <workItem from="1485806454178" duration="404000" />
+      <workItem from="1486330104739" duration="3428000" />
+      <workItem from="1486513569593" duration="975000" />
+      <workItem from="1486665869595" duration="2903000" />
+      <workItem from="1486756349192" duration="760000" />
+      <workItem from="1486758056529" duration="11202000" />
+      <workItem from="1486846747775" duration="9660000" />
+      <workItem from="1486861048334" duration="377000" />
+      <workItem from="1486864716802" duration="6319000" />
+      <workItem from="1486921956761" duration="5179000" />
+      <workItem from="1486933086453" duration="1809000" />
+      <workItem from="1486945603521" duration="266000" />
+      <workItem from="1487182165417" duration="7907000" />
+      <workItem from="1487190901004" duration="5203000" />
+      <workItem from="1487208947064" duration="656000" />
+      <workItem from="1487209683344" duration="6277000" />
+      <workItem from="1487217947873" duration="14779000" />
+      <workItem from="1487269489397" duration="3652000" />
+      <workItem from="1487294572539" duration="1445000" />
+      <workItem from="1487446988373" duration="593000" />
+      <workItem from="1487492538662" duration="1367000" />
+      <workItem from="1487534406210" duration="3972000" />
+      <workItem from="1487559024395" duration="684000" />
+      <workItem from="1487795254839" duration="626000" />
+      <workItem from="1488399243454" duration="373000" />
+      <workItem from="1488518841783" duration="3616000" />
+      <workItem from="1488570381493" duration="770000" />
+      <workItem from="1488913434749" duration="2784000" />
+      <workItem from="1488920559236" duration="1351000" />
+      <workItem from="1489608864345" duration="1011000" />
+      <workItem from="1489610320313" duration="1455000" />
+      <workItem from="1490041450323" duration="563000" />
+      <workItem from="1490246513867" duration="2121000" />
+      <workItem from="1490250325324" duration="5029000" />
+      <workItem from="1490324617403" duration="10821000" />
+      <workItem from="1490373940752" duration="1634000" />
+      <workItem from="1490495174383" duration="137000" />
+      <workItem from="1490496184674" duration="12535000" />
+      <workItem from="1490590369021" duration="7207000" />
+      <workItem from="1492983500334" duration="1553000" />
+      <workItem from="1492986966980" duration="12094000" />
+      <workItem from="1493667320470" duration="590000" />
+      <workItem from="1493744784815" duration="4362000" />
+      <workItem from="1494444896655" duration="11092000" />
+      <workItem from="1494523576767" duration="594000" />
+      <workItem from="1494551033903" duration="5464000" />
+      <workItem from="1494712031347" duration="1732000" />
+      <workItem from="1495472780944" duration="5584000" />
+      <workItem from="1495486221772" duration="2764000" />
+      <workItem from="1495559092538" duration="10149000" />
+      <workItem from="1495648407501" duration="12261000" />
+      <workItem from="1495668966016" duration="1533000" />
+      <workItem from="1495679325864" duration="1369000" />
+      <workItem from="1495733282554" duration="10066000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="257445000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46710527" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985508" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44134727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2138158" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14128843" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3848684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14309211" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33280757" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985508" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46847826" sideWeight="0.49707174" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44134727" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2911184" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17254038" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14309211" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/shds-simulator.xml">
+      <targetFilters>
+        <filter targetName="register.custom.compilers" isVisible="false" />
+        <filter targetName="init" isVisible="true" />
+        <filter targetName="clean" isVisible="true" />
+        <filter targetName="build.modules" isVisible="true" />
+        <filter targetName="init.artifacts" isVisible="false" />
+        <filter targetName="clean.artifact.shds-simulator:jar" isVisible="true" />
+        <filter targetName="artifact.shds-simulator:jar" isVisible="true" />
+        <filter targetName="build.all.artifacts" isVisible="true" />
+        <filter targetName="all" isVisible="true" />
+        <filter targetName="compile.module.shds-simulator" isVisible="true" />
+        <filter targetName="compile.module.shds-simulator.production" isVisible="true" />
+        <filter targetName="compile.module.shds-simulator.tests" isVisible="true" />
+        <filter targetName="clean.module.shds-simulator" isVisible="true" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/inputs/instance_r5_s12_g60.json" />
+    <entry file="file://$PROJECT_DIR$/shds-simulator.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/instance_r1_s12_g60_5.json" />
+    <entry file="file://$PROJECT_DIR$/resources/inputs/instance_r1_s12_g45_3.json" />
+    <entry file="file://$PROJECT_DIR$/resources/inputs/instance_r1_s12_g45_1.json" />
+    <entry file="file://$PROJECT_DIR$/resources/inputs/instance_r1_s12_g60_1.json" />
+    <entry file="file://$PROJECT_DIR$/resources/inputs/instance_r1_s12_g60_0.json" />
+    <entry file="file://$PROJECT_DIR$/resources/inputs/instance_r8_s12_g60_9.json" />
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/Solver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/instance_r4_s12_g2_0.json" />
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/problem/Utilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="132" column="5" lean-forward="false" selection-start-line="132" selection-start-column="5" selection-end-line="132" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2812#2813#0" expanded="false" />
+            <element signature="e#2862#2863#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/rule_4_stats.txt" />
+    <entry file="file://$PROJECT_DIR$/resources/inputs/instance_r1_s12_g1_0.json" />
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_laundry_wash_9.json" />
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_temperature_heat_9.json" />
+    <entry file="file://$PROJECT_DIR$/resources/outputs/rule_1_stats.txt" />
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_temperature_heat_10.json" />
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_temperature_heat_1.json" />
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_temperature_heat_0.json" />
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/agents/MGM/MGMAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="76" column="10" lean-forward="true" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/communication/Spawner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_laundry_wash_1.json" />
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/problem/Parameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="46" column="31" lean-forward="false" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+          <folding>
+            <element signature="e#1406#1407#0" expanded="false" />
+            <element signature="e#1449#1450#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/json-20160810.jar!/org/json/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="173" column="0" lean-forward="false" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/Home/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="107" column="41" lean-forward="false" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/Home/Devices/Device.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_laundry_wash_0.json" />
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_8_17.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_1_13.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_8_10.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2091">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_8_29.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/Home/Rules/SchedulingRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="140" column="20" lean-forward="true" selection-start-line="140" selection-start-column="20" selection-end-line="140" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/kernel/DCOPInstanceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="253" column="102" lean-forward="false" selection-start-line="253" selection-start-column="102" selection-end-line="253" selection-end-column="102" />
+          <folding>
+            <element signature="e#0#13156#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_8_0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="747" column="35" lean-forward="true" selection-start-line="747" selection-start-column="35" selection-end-line="747" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_8_30.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="39" column="35" lean-forward="false" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/DeviceDictionary.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="140" column="33" lean-forward="true" selection-start-line="140" selection-start-column="33" selection-end-line="140" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/communication/ComAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+          <folding>
+            <element signature="e#7128#7129#0" expanded="false" />
+            <element signature="e#7166#7167#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/CPSolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="224" column="22" lean-forward="false" selection-start-line="224" selection-start-column="22" selection-end-line="224" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/ins_1_4.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/communication/AgentStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="46" column="11" lean-forward="false" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/Home/LocalSolver/RuleSchedulerSolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="338" column="30" lean-forward="false" selection-start-line="338" selection-start-column="30" selection-end-line="338" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/agents/MGM/MGMAgentActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/temperature_heat_stats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/laundry_wash_stats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/laundry_dry_stats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/dish_wash_stats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/cleanliness_stats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/charge_stats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/water_temp_stats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/bake_stats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/nmsu/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="111" column="59" lean-forward="true" selection-start-line="111" selection-start-column="59" selection-end-line="111" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SHDS-simulator:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46375144" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46375144" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46375144" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46375144" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SHDS-simulator</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46375144" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>json-20160810</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46375144" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
