@@ -241,8 +241,14 @@ public class DCOPInstanceFactory {
                     // Background loads
                     JSONArray jBgLoad = jAgent.getJSONArray("backgroundLoad");
                     double[] bgLoads = new double[horizon];
-                    for (int i = 0; i < horizon; i++) {
+
+                    /*
+                    for (int i = 0; i < horizon; i++) { // <--- .length before this is a quick fix for now... 5_30_2017 If the granularity in file is higher than what you scale it to, you end up with some timesteps with null loads. TODO method that takes in a double array and an integer to scale it down or up
                         bgLoads[i] = jBgLoad.getDouble(i);
+                    }*/
+
+                    for (int i = 0; i < horizon; i++) { // using this for testing so we have consistent background loads across all files ^^^above is original one^^^
+                        bgLoads[i] = 0;
                     }
 
                     // Create Home

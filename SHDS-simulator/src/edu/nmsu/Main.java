@@ -20,12 +20,12 @@ import java.util.List;
 
 public class Main {
 
-    public static boolean execute(String fileName) {
+    public static int execute(String fileName) {
         CostStat aggStats = new CostStat();
         List<Object> algParams = new ArrayList<>();
 
         int nbIterations = 1;
-        long solverTimeoutMs = 30000;
+        long solverTimeoutMs = 60000;
         double wCost = 1;
         double wPower = 1;
         //Parameters.setHorizon(horizon);
@@ -98,38 +98,49 @@ public class Main {
 
         int[] granularity = {60, 30, 20, 15, 10, 5, 4, 3, 2, 1};
         String[] rule = {"none", "laundry_wash", "laundry_dry", "dish_wash", "bake", "water_temp", "charge", "temperature_heat", "cleanliness"};
-        String filePath = "resources/inputs/ins_";
+        String filePath = "resources/inputs/";
         int num_files = 30;
 
-        for(int r = 1; r <= 8; r++) {
-            String statistics = "___________________\t" + rule[r] + "\t_______________________\n";
-            for (int i = 0; i < granularity.length; i++) {
-                System.out.println("________\tgranularity: " + granularity[i] + "\t_________________________________________________________________");
-                Parameters.setGranularity(granularity[i]);
-                String fileName = filePath + r;
-                int count = 0;
-                for (int n = 0; n < 15; n++) {//num_files; n++) {
-                    System.out.println(fileName + "_" + n);
-                    //statistics += granularity[i] + ": "+rule[rule_num]+"_"+n+"\n";
-
-                    count += execute(fileName + "_" + n + ".json") ? 1 : 0;
-                    //statistics += solved;
-                    //statistics += "\n";
-                    //System.out.println(statistics);
+        for(int r = 5; r <= 8; r++) {
+            String statistics = "";
+            for (int tempGran : granularity) {
+                System.out.println("granularity: " + tempGran);
+                Parameters.setGranularity(tempGran);
+                for (int n = 0; n < num_files; n++) {
+                    String fileName = "ins_" + r + "_" + n + ".json";
+                    int success;
+                    System.out.println(fileName);
+                    long t1, t2;
+                    t1 = System.currentTimeMillis();
+                    success = execute(filePath + fileName);
+                    t2 = System.currentTimeMillis();
+                    statistics += tempGran + "\t" + success + "\t" + (t2 - t1) + "\t" + fileName + "\n";
                 }
-
-                statistics += granularity[i] + ": " + count + " out of " + num_files + "\n";
             }
-            try (PrintWriter pw = new PrintWriter("resources/outputs/" + rule[r] + "_stats.txt")) {
-                pw.println(statistics);
-                System.out.println(statistics);
-            } catch (FileNotFoundException e) {
-                e.printStackTrace();
-            }
+            writeFile("resources/outputs/" + rule[r] + "_stats.txt", statistics);
         }
 
     }
 
+
+
+    /**
+     * Uses PrintWriter to write data to a file. This way we don't have try catch blocks cluttering our code.
+     * Parameters:
+     *  filePath - the location / file to write to
+     *  data - the data that will be written to file
+     *  returns true if successful and false if not
+     *  "big if true"
+    **/
+    public static boolean writeFile(String filePath, String data) {
+        try (PrintWriter pw = new PrintWriter(filePath)) {
+            pw.println(data);
+            return true;
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+            return false;
+        }
+    }
 
     public static void runTest(int rule_id, int span, int gran) {
 
@@ -141,20 +152,25 @@ public class Main {
         execute(fileName);
     }
 
-
-    public static boolean isSolved(Collection<DCOPagent> agents) {
+    /**
+     * returns  1 if solved
+     * returns  0 if incorrectly solved
+     * returns -1 if bugged
+     **/
+    public static int isSolved(Collection<DCOPagent> agents) {
         int maxIter = DCOPinfo.leaderAgent.getAgentStatistics().size();
         for (int iter = 0; iter < maxIter; iter++) {
             for (DCOPagent agt : agents) {
                 if (iter >= agt.getAgentStatistics().size()) continue;
-                for (Double d : agt.getAgentStatistics().getPriceUSDIter(iter)) {
-                    if (d == null) {
-                        return false;
-                    }
+                double temp = agt.getAgentStatistics().getScheduleCostIter(iter);
+                if(temp == 0) {
+                    return 0;
+                } else if(temp == Double.MAX_VALUE) {
+                    return -1;
                 }
             }
         }
-        return true;
+        return 1;
     }
 
     public static String getCostToString(Collection<DCOPagent> agents) {

@@ -114,12 +114,12 @@ public class MGMAgentActions extends AgentActions {
             neighborLoads = Utilities.sum(neighborLoads, nLoads);
         }
 
-        System.setOut(nullStream);
-        System.setErr(nullStream);
+        //System.setOut(nullStream);
+        //System.setErr(nullStream);
         RulesSchedule rs = solver.getSchedule(neighborLoads);
         mgmAgentState.setCurrSchedule(rs);
-        System.setOut(outStream);
-        System.setErr(outStream);
+        //System.setOut(outStream);
+        //System.setErr(outStream);
 
         T2 = System.currentTimeMillis();
         mgmAgentState.setSolvingTimeMs(T2 - T1);

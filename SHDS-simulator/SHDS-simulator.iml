@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/out" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/lib" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/inputs" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/outputs" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

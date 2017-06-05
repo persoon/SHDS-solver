@@ -308,7 +308,7 @@ public class RuleSchedulerSolver extends CPSolver {
         ////////////////////////////////////////////
         // 1. minimize  \sum_t1 \sum_t2  |power[t1] - power[t2]|
         // createObjectivePower(objPowerDiff, var_aggrPower, neighborPower);
-        //createObjectivePeaks(objPowerDiff, var_aggrPower, neighborPower);
+        createObjectivePeaks(objPowerDiff, var_aggrPower, neighborPower);
 
         // 2. Total power price
         createObjectivePrice(objPrice, var_aggrPower, powerPriceKWh);
@@ -786,8 +786,20 @@ public class RuleSchedulerSolver extends CPSolver {
             scaledPrice[t] = scaleAndRoundPrice(powerPriceKWh[t]);
 
         // Sums the current aggregated power per time step (in Watts) * the price (in KwH)
-        Constraint ctrPrice = new SumInt(store, var_aggrPower, "==", objPrice);
-                            //new SumWeight(var_aggrPower, scaledPrice, objPrice); <---- OLD ONE, was causing problem with 0.0 power time steps that still needed to do stuff 5_11_2017
+
+        /**BILL WROTE THIS ATTEMPTING TO FIX THE DEPRECATED CODE 5_31_2017*/
+        IntVar[] var_Price = new IntVar[HORIZON];
+        for (int t = 0; t < HORIZON; t++) {
+            var_Price[t] = new IntVar(store, aggregatedPriceBounds.getFirst(), aggregatedPriceBounds.getSecond());
+            store.impose(new XmulCeqZ(var_aggrPower[t], scaledPrice[t], var_Price[t]));
+        }
+
+        Constraint ctrPrice = new SumInt(store, var_Price, "==", objPrice);
+                     //new LinearInt(store, var_aggrPower, scaledPrice, "==", objPrice);
+                            //new SumWeight(var_aggrPower, scaledPrice, objPrice); // <---- OLD ONE, was causing problem with 0.0 power time steps that still needed to do stuff 5_11_2017
+        /**END OF BILL CODE*/
+
+
         store.impose(ctrPrice);
 
         if (debug.price())
