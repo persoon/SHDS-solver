@@ -267,7 +267,6 @@ public class DCOPInstanceFactory {
                             rule.setTimeEnd  (rule.getTimeEnd()   * fileGran / Parameters.getGran());
                         }
 
-                        //if(rule.getTimeEnd() == 12) System.out.println("_________________________\nRULE ENDS WITH 12"+ jRules.getString(r) +"\n_________________________");
                         home.addRule( rule );
                     }
                     home.activatePassiveRules();

@@ -6,6 +6,7 @@ import edu.nmsu.Home.Devices.Sensor;
 import edu.nmsu.Home.Devices.SensorProperty;
 import edu.nmsu.Home.Rules.PredictiveModel;
 import edu.nmsu.Home.Rules.RuleTimePredicate;
+import edu.nmsu.Home.Rules.RuleTimePrefix;
 import edu.nmsu.Home.Rules.SchedulingRule;
 import edu.nmsu.problem.Pair;
 import edu.nmsu.problem.Parameters;
@@ -638,11 +639,10 @@ public class RuleSchedulerSolver extends CPSolver {
             System.out.println( separatorString + "TEST start: Rule: " + rule.toString() + separatorString);
 
         ArrayList<PrimitiveConstraint> c = new ArrayList<>();
-
+        int cpGoalState = scaleAndRoundDelta(rule.getGoalState()); // Moved outside for-loop 6_7_17
         // TODO: Check Time start, time end (closed or opened set)
         // Todo: Check - rule can never start from time 0
         for (int t = rule.getTimeStart() ; t < rule.getTimeEnd(); t++) {
-            int cpGoalState = scaleAndRoundDelta(rule.getGoalState());
             switch (rule.getRelation()) {
                 case eq:
                     c.add(new XeqC(var_predModel_r[t], cpGoalState));
@@ -664,6 +664,14 @@ public class RuleSchedulerSolver extends CPSolver {
                     break;
             }
         }
+
+        //Bill says, TODO: check to make sure rules that should be conjunctions aren't disjunctions
+        if (rule.getTimePrefix() == RuleTimePrefix.at) {
+            for(int t = 0; t < rule.getTimeStart(); t++) {
+                c.add(new XltC(var_predModel_r[t], cpGoalState));
+            }
+        }
+
         if (rule.getPredicate() == RuleTimePredicate.conjunction) {
             Constraint ctr = new And(c);
             if (debug.rules())
