@@ -824,12 +824,12 @@
       <workItem from="1496771830796" duration="317000" />
       <workItem from="1496773963329" duration="994000" />
       <workItem from="1496853921087" duration="660000" />
-      <workItem from="1496867212108" duration="1213000" />
+      <workItem from="1496867212108" duration="1104000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301334000" />
+    <option name="totallyTimeSpent" value="301225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -910,10 +910,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added additional constraint to 'at' rule:&#10;    X &lt; d at any time t &lt; T" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added additional constraint to 'at' rule:&#10;    X &lt; d at any time t &lt; T" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1219,7 +1215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
